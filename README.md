@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0875-longest-mountain-in-array](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0875-longest-mountain-in-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0875-longest-mountain-in-array](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0875-longest-mountain-in-array) |
 ## Dynamic Programming
 |  |
