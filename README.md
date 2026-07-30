@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -40,5 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
