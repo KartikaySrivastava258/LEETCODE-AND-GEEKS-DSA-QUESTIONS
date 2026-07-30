@@ -8,7 +8,7 @@ public:
         {
             freq[ch - 'a']++;
         }
-        sort(freq.begin(),freq.end(),greater<int>());
+        sort(freq.rbegin(),freq.rend());
 
         int push=0;
         for(int i=0; i<26; i++)
