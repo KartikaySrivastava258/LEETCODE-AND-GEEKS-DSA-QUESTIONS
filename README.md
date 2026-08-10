@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0875-longest-mountain-in-array](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0875-longest-mountain-in-array) |
+| [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
+| [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -66,4 +68,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
+| [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
