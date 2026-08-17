@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0875-longest-mountain-in-array](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0875-longest-mountain-in-array) |
+| [1685-stone-game-v](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1685-stone-game-v) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0875-longest-mountain-in-array](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0875-longest-mountain-in-array) |
 | [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1685-stone-game-v) |
 ## Enumeration
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1685-stone-game-v) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1685-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
