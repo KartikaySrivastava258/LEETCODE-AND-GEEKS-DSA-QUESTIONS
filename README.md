@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1685-stone-game-v) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
