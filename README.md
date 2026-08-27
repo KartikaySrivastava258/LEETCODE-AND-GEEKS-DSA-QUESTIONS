@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0875-longest-mountain-in-array) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -68,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0055-jump-game) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
