@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-distinct-subsequences-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1188-brace-expansion-ii) |
 | [1446-consecutive-characters](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1446-consecutive-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3811-reverse-degree-of-a-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/3811-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1188-brace-expansion-ii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KartikaySrivastava258/LEETCODE-AND-GEEKS-DSA-QUESTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
